@@ -1,0 +1,14 @@
+uuid: d522ad12-3543-44e9-b4ac-2403402a5215
+name: d8-composer
+mail: ckng@myfinejob.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
